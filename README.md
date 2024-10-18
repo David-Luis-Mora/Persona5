@@ -1,8 +1,8 @@
 # Persona5
-Grupo de Samuel Sánchez y David Luís.
+### Grupo de Samuel Sánchez y David Luís.
 # 1. Idea de la aplicación web:
 
-    La aplicación web consistira en mostrar información sobre el videojuego Persona 5. Así como sus personajes e historia en general.
+### La aplicación web consistira en mostrar información sobre el videojuego Persona 5. Así como sus personajes e historia en general.
 
 # 2. Wireframe:
 
