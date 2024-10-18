@@ -1,8 +1,8 @@
-# Persona5
-### Grupo de Samuel Sánchez y David Luís.
+# Persona 5 Web
+### Grupo de Samuel Sánchez y David Luis.
 # 1. Idea de la aplicación web:
 
-### La aplicación web consistira en mostrar información sobre el videojuego Persona 5. Así como sus personajes e historia en general.
+### La aplicación web consistirá en mostrar información sobre el videojuego Persona 5. Así como sus personajes e historia en general.
 
 # 2. Wireframe:
 
@@ -11,17 +11,17 @@
 
 # 3. Mockup:
 
-### Estos son los colores que usaremos en la aplicacion web, predomina el rojo, blanco y negro.
+### Estos son los colores que usaremos en la aplicación web. Predominan el rojo, blanco y negro.
 
 ![alt text](imagenes/paleta_colores.png)
 
-###  Para el texto usamos la fuente Fredoka.
+### Para el texto usamos la fuente Fredoka.
 
 # Escritorio
 ![alt text](imagenes/main.png)
 # Tablet
 ![alt text](imagenes/main_tablet.png)
-# Movil
+# Móvil
 ![alt text](imagenes/main_android.png)
 
 
